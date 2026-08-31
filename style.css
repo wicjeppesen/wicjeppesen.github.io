@@ -49,6 +49,11 @@ a:hover {
 
 .logo {
     font-weight: 600;
+    color: var(--text);
+}
+
+.logo:hover {
+    text-decoration: none;
 }
 
 .site-header nav a {
@@ -99,6 +104,16 @@ section h2 {
     font-size: 1.6rem;
     margin-bottom: 24px;
     padding-top: 48px;
+}
+
+/* About */
+
+.about-text {
+    max-width: 640px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin-bottom: 40px;
 }
 
 /* Projects */
