@@ -1,2 +1,2 @@
-# .github.io
+# wicjeppesen.github.io
 My portfolio website
