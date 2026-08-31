@@ -47,7 +47,8 @@ a:hover {
     padding-bottom: 20px;
 }
 
-.logo {
+.logo,
+.logo:visited {
     font-weight: 600;
     color: var(--text);
 }
