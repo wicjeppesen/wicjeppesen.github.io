@@ -93,9 +93,10 @@ a:hover {
     flex-shrink: 0;
 }
 
-#about .headshot {
-    display: block;
-    margin-top: 48px;
+.headshot-container {
+    display: flex;
+    justify-content: center;
+    padding: 40px 0;
 }
 
 .hero h1 {
