@@ -95,8 +95,8 @@ a:hover {
 
 .headshot-container {
     display: flex;
-    justify-content: center;
-    padding: 40px 0;
+    justify-content: flex-start;
+    padding: 40px 0 0;
 }
 
 .hero h1 {
